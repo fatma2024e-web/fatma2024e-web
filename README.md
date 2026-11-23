@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | PHP & Laravel Web Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=PHP+%26+Laravel;Creating+responsive+interfaces;Learning+and+growing+with+every+project" alt="A short introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Chat+AI+in+progress" alt="A short introduction" />
 </p>
 
 <p align="center">
